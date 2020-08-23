@@ -6,3 +6,5 @@ Bloodtype
 Address
 Donor Center
 Change
+Gender
+Last donations with year
