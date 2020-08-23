@@ -1,3 +1,4 @@
+
 Specifications
 
 What do I want in my database
@@ -8,3 +9,5 @@ Donor Center
 Change
 Gender
 Last donations with year
+
+Program will be written in C#
