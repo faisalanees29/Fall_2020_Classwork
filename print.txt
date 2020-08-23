@@ -1,0 +1,2 @@
+To print to the console in csharp, the command is:
+console.writeline("Hello")
